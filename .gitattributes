@@ -1,0 +1,10 @@
+# Default behavior
+# This file is used to override language statistics
+# Text file normalization
+public/* linguist-vendored
+
+src/**/*.tsx linguist-detectable
+yarn.lock linguist-generated
+
+vendor/* linguist-vendored
+# eof 46956efd
